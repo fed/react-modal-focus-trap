@@ -1,0 +1,14 @@
+{
+  "name": "react-modal-focus-trap",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:fknussel/react-modal-focus-trap.git",
+  "author": "Federico Knüssel <fknussel@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "dependencies": {
+    "modal-focus-trap": "^0.1.0"
+  }
+}
